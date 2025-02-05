@@ -1,3 +1,11 @@
+Book Catalogue: Displays a collection of books with essential details such as title, author, genre, and price.
+Search & Filter: Users can efficiently search for specific books and filter the collection based on categories or other criteria.
+Interactive UI: A clean and user-friendly interface designed using modern UI/UX practices.
+Book Details Page: Detailed view of each book, including descriptions and customer reviews.
+Responsive Design: Optimized for seamless use on desktops, tablets, and mobile devices.
+Cart Management: Add books to the cart and manage orders effortlessly.
+Local Storage Integration: Stores cart information locally to retain user selections between sessions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
