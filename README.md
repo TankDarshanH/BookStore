@@ -6,6 +6,7 @@ Responsive Design: Optimized for seamless use on desktops, tablets, and mobile d
 Cart Management: Add books to the cart and manage orders effortlessly.
 Local Storage Integration: Stores cart information locally to retain user selections between sessions.
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
